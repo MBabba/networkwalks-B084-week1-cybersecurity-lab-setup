@@ -293,7 +293,7 @@ This laboratory is intended strictly for education purposes only.
 **Muhammad Ibrahim Bello**\
 Cybersecurity Professional B084
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in//)
+LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/engr-muhammad-ibrahim-bello-573563ba/)
 
 ---
 
