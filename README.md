@@ -283,5 +283,22 @@ This laboratory is intended strictly for education purposes only.
 # 🔗 Tools & Resources
 
 - **7-Zip:** [https://7-zip.org/download.html](https://7-zip.org/download.html)
+- - **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
+- **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
+
+---
+
+# 👤 Author
+
+**Muhammad Ibrahim Bello**\
+Cybersecurity Professional B084
+
+LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in//)
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
 - **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
 - **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
